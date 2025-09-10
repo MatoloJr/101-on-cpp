@@ -115,4 +115,3 @@ void chooseWinner(char player, char computer){
         }
 }
 
-// vido timeline 02:51:12

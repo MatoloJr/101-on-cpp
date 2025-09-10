@@ -26,4 +26,3 @@ int main(){
     return 0;
 }
 
-// video timeline 01:03:39

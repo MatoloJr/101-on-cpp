@@ -3,8 +3,8 @@
 int main(){
     // std means standard
     // cout is character output
-    //<< is the insertion operator for outputting to the console
-    //! is used to tell the compiler that this is the end the statement
+    // << is the insertion operator for outputting to the console
+    // ! is used to tell the compiler that this is the end the statement
     /*<< std::endl is used to skip/go to the next line and it flashes the output buffer
     '\n' means new line character. it is used to skip/go to the next line and is better performance wise*/
     std::cout << "i like pizza!" << std::endl;

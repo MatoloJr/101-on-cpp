@@ -17,11 +17,7 @@ void printInfo(const std::string name, const int age);
 }
 
 void printInfo(const std::string name, const int age){
-    name = " ";
-    age = 0 ;
-
     std::cout << name << '\n';
     std::cout << age << '\n';
 }
 
-//video timeline 04:06:08
